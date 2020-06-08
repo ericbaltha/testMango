@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoWebApp", "MangoWebApp\MangoWebApp.csproj", "{992EB328-BC05-4032-B995-E1631645ED37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthService", "AuthService\AuthService.csproj", "{2656483F-47CA-4224-BF34-FABCC3E157FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemsService", "ItemsService\ItemsService.csproj", "{B0F98710-0CBC-424D-93E6-C9BAE593D4FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{445D607B-C6B1-4A3F-BFFB-E9DBCFB3FB60}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992EB328-BC05-4032-B995-E1631645ED37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992EB328-BC05-4032-B995-E1631645ED37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992EB328-BC05-4032-B995-E1631645ED37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992EB328-BC05-4032-B995-E1631645ED37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2656483F-47CA-4224-BF34-FABCC3E157FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2656483F-47CA-4224-BF34-FABCC3E157FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2656483F-47CA-4224-BF34-FABCC3E157FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2656483F-47CA-4224-BF34-FABCC3E157FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F98710-0CBC-424D-93E6-C9BAE593D4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F98710-0CBC-424D-93E6-C9BAE593D4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F98710-0CBC-424D-93E6-C9BAE593D4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F98710-0CBC-424D-93E6-C9BAE593D4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C3608F-6917-4AFB-849D-222B0967A5CD}
+	EndGlobalSection
+EndGlobal
